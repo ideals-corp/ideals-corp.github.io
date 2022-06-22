@@ -1,0 +1,26 @@
+{
+  "id": "string",
+  "firstName": [
+    {
+      "culture": "en",
+      "text": "Armen"
+    },
+    {
+      "culture": "ru",
+      "text": "Армен"
+    }
+  ],
+  "lastName": [
+    {
+      "culture": "en",
+      "text": "Melkonyan"
+    },
+    {
+      "culture": "ru",
+      "text": "Мелконян"
+    }
+  ],
+  "email": "string",
+  "photo": "",
+  "jobPosition": "CEO"
+}
