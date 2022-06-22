@@ -21,6 +21,6 @@
     }
   ],
   "email": "string",
-  "photo": "",
+  "photo": "https://ideals-corp.github.io/user/user-image.jpeg",
   "jobPosition": "CEO"
 }
